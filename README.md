@@ -1,2 +1,2 @@
-# steamlit_meeting_log
-steamlit_based_meeting_logger
+# streamlit_meeting_log
+streamlit_based_meeting_logger
