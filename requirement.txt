@@ -1,0 +1,9 @@
+faster-whisper
+streamlit
+torch
+python-dotenv
+openai
+librosa
+pydub
+numpy
+streamlit-audiorec
